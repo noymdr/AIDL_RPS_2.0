@@ -1,5 +1,9 @@
 # Rock-Paper-Scissors Image Classification
 
+# Team Members - Idan, Noy and Daniel
+
+This project develops an image classification model for Rock-Paper-Scissors using deep learning and transfer learning. It aims to accurately classify hand gestures into 'rock', 'paper', or 'scissors', demonstrating the power of fine-tuned pre-trained networks for image recognition tasks. This serves as a practical example for human-computer interaction and basic gesture recognition systems.
+
 ## 🚀 Project Summary
 
 This project develops an image classification model for Rock-Paper-Scissors using deep learning and transfer learning. It aims to accurately classify hand gestures into 'rock', 'paper', or 'scissors', demonstrating the power of fine-tuned pre-trained networks for image recognition tasks. This serves as a practical example for human-computer interaction and basic gesture recognition systems.
